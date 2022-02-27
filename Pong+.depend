@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1643979922 source:c:\users\user\desktop\pong+\pong+\main.cpp
+	<iostream>
+	"Menu.h"
+
+1644072312 c:\users\user\desktop\pong+\pong+\menu.h
+	<cstdlib>
+	"Juego.h"
+	"ArchivoSurvivor.h"
+
+1645893090 c:\users\user\desktop\pong+\pong+\juego.h
+	"Auxiliar.h"
+	"Jugador.h"
+	"Pelota.h"
+	"ArchivoSurvivor.h"
+	"Tiempo.h"
+	<conio.h>
+
+1645892501 c:\users\user\desktop\pong+\pong+\auxiliar.h
+	<windows.h>
+	<cstdio>
+
+1645891952 c:\users\user\desktop\pong+\pong+\jugador.h
+	"Auxiliar.h"
+	"Pelota.h"
+	"Juego.h"
+	"Tiempo.h"
+	<conio.h>
+
+1645893147 c:\users\user\desktop\pong+\pong+\pelota.h
+	"Jugador.h"
+	"Juego.h"
+	"Auxiliar.h"
+
+1644082723 c:\users\user\desktop\pong+\pong+\tiempo.h
+	"Auxiliar.h"
+
+1644074257 c:\users\user\desktop\pong+\pong+\archivosurvivor.h
+	<string.h>
+	<fstream>
+
