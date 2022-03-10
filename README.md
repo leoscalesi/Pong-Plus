@@ -1,2 +1,2 @@
 # Pong-Plus
-El clasico Pong.
+El clasico Pong, escrito en C++.
