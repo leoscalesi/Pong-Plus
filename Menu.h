@@ -48,7 +48,7 @@ void Menu::mostrar(){
       case 2:
       case 3:
 
-        Juego::jugar(opc);        //VER SI FUNCIONA BIEN.
+        Juego::jugar(opc);
 
       break;
 
